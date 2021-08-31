@@ -28,8 +28,7 @@ Inicio
       fimpara
       escreval
       escreval
-      
-      
+            
       para i de 0 ate x-1 faca
            para j de 0 ate x-1 faca
                 se mat[i, j] < 0 entao
